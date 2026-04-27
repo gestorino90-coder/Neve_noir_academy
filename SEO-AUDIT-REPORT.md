@@ -56,7 +56,7 @@ Comprehensive SEO audit and optimization for the Neve Noir Astro website.
 
 ### ⚠️ Needs Attention
 1. **Domain**: Currently uses GitHub Pages subdomain
-   - Current: `https://ondameccanica.github.io/neve-website`
+   - Current: `https://gestorino90-coder.github.io/Neve_noir_academy`
    - Recommended: `https://nevenoir.com`
    - Action: Configure custom domain
 
